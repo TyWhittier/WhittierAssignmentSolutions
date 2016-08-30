@@ -119,9 +119,11 @@ xpbombs
 % remove the comments before you submit.) 
 
 %%% Enter the code for your program below this line
-
 fprintf('Hello, World!\n')
-
+%User must input whatever they desire to be displayed and enter it as a
+%variable called 'prompt'
+x = input(prompt)
+str = input(prompt,'s')
 
 
 %%%%% When you have completed everything, type the following two commands

@@ -2,7 +2,7 @@ function guessThatNumber
 % ERROR 1 & 2
 % name of function was guessThatNumber().  Since it takes no input
 % arguments it does not need the () after it. I changed this in the
-% function name and the comment usage description
+% function name and the comment usage description.
 %---------------------------------------------------------------
 %       USAGE: guessThatNumber
 %
